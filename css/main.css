@@ -230,7 +230,7 @@ nav#mainNav li a{
 
 
 .intro{
-	padding-top:100px;
+	/* padding-top:100px; */
 	padding-bottom:100px;
 }
 
@@ -772,7 +772,8 @@ ul#category li a:hover {
 
 .item a .desc {
 	
-    background:rgba(208, 160, 104, 0.96);
+    /* background:rgba(208, 160, 104, 0.96); */
+    background:#FC8359;
     height: 100%;
     left: 0;
     position: absolute;
